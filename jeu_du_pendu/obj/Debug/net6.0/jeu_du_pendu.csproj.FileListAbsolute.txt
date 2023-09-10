@@ -1,0 +1,15 @@
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.exe
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.deps.json
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.runtimeconfig.json
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.dll
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\bin\Debug\net6.0\jeu_du_pendu.pdb
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.dll
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\refint\jeu_du_pendu.dll
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.pdb
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\jeu_du_pendu.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Documents\Charlyn\Udemy\Developpeur_CSharp_complet\jeu_du_pendu\jeu_du_pendu\jeu_du_pendu\obj\Debug\net6.0\ref\jeu_du_pendu.dll
